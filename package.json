@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "telegraf": "^4.8.5"
   }
 }
